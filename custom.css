@@ -2472,8 +2472,6 @@ html body table.mobileitem tbody tr:last-child{
 
 
 /* =========================================
-   OPTION 4: LUXE DARK (radial glow + zachte gradient)
-   - geen strepen
    - consistente panel look
    ========================================= */
 
@@ -2559,4 +2557,5 @@ html body table.mobileitem tbody tr{
 }
 html body table.mobileitem tbody tr:last-child{
     border-bottom: none !important;
+
 }
